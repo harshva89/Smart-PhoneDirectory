@@ -2,20 +2,23 @@
 
 ## User interface:
 
-### Adding a new contact:
+### Landing:
 ![Screenshot](screenshots/1.png)
 
-### Search:
+### Adding a new contact:
 ![Screenshot](screenshots/2.png)
 
-### Displaying all contacts:
+### Search:
 ![Screenshot](screenshots/3.png)
 
-### Deleting a contact:
+### Displaying all contacts:
 ![Screenshot](screenshots/4.png)
 
-### Calling a contact:
+### Deleting a contact:
 ![Screenshot](screenshots/5.png)
 
-### Displaying Call logs:
+### Calling a contact:
 ![Screenshot](screenshots/6.png)
+
+### Displaying Call logs:
+![Screenshot](screenshots/7.png)
